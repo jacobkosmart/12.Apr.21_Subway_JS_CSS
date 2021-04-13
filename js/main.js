@@ -1,20 +1,3 @@
-// 돋보기를 누르면 input 이 커지게 하는 기능임
-const searchEl = document.querySelector('.search')
-const searchInputEl = searchEl.querySelector('input')
-
-searchEl.addEventListener('click', function () {
-  // Logic..
-  searchInputEl.focus()
-})
-searchInputEl.addEventListener('focus', function () {
-  searchEl.classList.add('focused')
-  searchInputEl.setAttribute('placeholder', 'Search')
-})
-searchInputEl.addEventListener('blur', function () {
-  searchEl.classList.remove('focused')
-  searchInputEl.setAttribute('placeholder', '')
-})
-
 // Gsap 좌측 badges가 scroll 시 없어지게 만드는 기능임
 const badgeEl = document.querySelector('header .badges')
 const toToEl = document.querySelector('#to-top')
@@ -155,9 +138,7 @@ spyEls.forEach(function (spyEl) {
 })
 
 
-// copyright 부분 자동 연도 삽입
-const thisYear = document.querySelector('.this-year')
-thisYear.textContent = new Date().getFullYear() // 올해인 2021년 이 반환됨
+
 
 
 
