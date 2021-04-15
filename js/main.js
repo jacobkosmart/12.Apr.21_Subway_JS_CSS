@@ -28,7 +28,7 @@ window.addEventListener('scroll', _.throttle(function () {
     })
   } 
 }, 300))
-// _.trottle(함수, 시간)
+// _.trottle(함수, 시간), scrollTo Plugin
 toToEl.addEventListener('click', function () {
   gsap.to(window, .7, { // window 객체를 통해서 화면 자체를 나타내는거 .7 초 시간동안
     scrollTo: 0 // 0으로 두면 화면이 0px 있는 지점으로 이동 .7초 동안
