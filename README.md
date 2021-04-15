@@ -85,7 +85,7 @@ body {
 [About Google Fonts](https://fonts.google.com/)
 
 
-## Google Material Icons
+### Google Material Icons
 본 페이지에 아이콘은 구글에서 제공하는 Material Icons를 사용하였습니다.
 ```html
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
@@ -98,7 +98,7 @@ body {
 
 
 
-## JS Libraries 
+### JS Libraries 
  - [GSAP(The GreenSock Animation Platform)](https://greensock.com/gsap/)
  - [Swiper](https://swiperjs.com/)
  - [Youtube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference)
