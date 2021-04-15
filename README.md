@@ -99,11 +99,11 @@ body {
 
 
 ## JS Libraries 
- - [GSAP(The GreenSock Animation Platform)](https://greensock.com/gsap/)
- - [Swiper](https://swiperjs.com/)
- - [Youtube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference)
- - [ScrollMagic API](http://scrollmagic.io/docs/)
- - [Lodash](https://lodash.com/)
+ - [GSAP(The GreenSock Animation Platform)](https://github.com/jacobkosmart/12.Apr.21_Subway_JS_CSS#gsap)
+ - [Swiper](https://github.com/jacobkosmart/12.Apr.21_Subway_JS_CSS#swiper)
+ - [Youtube IFrame Player API](https://github.com/jacobkosmart/12.Apr.21_Subway_JS_CSS#youtube-api)
+ - [ScrollMagic API](https://github.com/jacobkosmart/12.Apr.21_Subway_JS_CSS#scrollmagic)
+ - [Lodash](https://github.com/jacobkosmart/12.Apr.21_Subway_JS_CSS#lodash)
 
 
 ### GSAP 
