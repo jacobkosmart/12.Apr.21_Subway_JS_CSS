@@ -2,7 +2,7 @@
 
 # 🌮 Subway 
 
-[DEMO](https://hardcore-dijkstra-7a109c.netlify.app/)
+[Live DEMO](https://subway.jacobko.info/)
 
 ![image](https://user-images.githubusercontent.com/28912774/117537340-32fe0780-b03b-11eb-8d2c-41bef928759c.png)
 
